@@ -16,6 +16,7 @@ export const CLASSPLUS_URLS = {
     "springboot project (25-feb)": { folderId: 48398073, courseId: 805891 },
     "front-end by paramjeet sir": { folderId: 47375905, courseId: 775723 },
     "atlas 1.0": { folderId: 49395314, courseId: 777062 },
-    "Spring Module 1": { folderId: 49529815, courseId: 775723 },
+    "spring module 1": { folderId: 49529815, courseId: 775723 },
+    "advance java (jfs online)": { folderId: 49685173, courseId: 775723 },
     "sharma computer academy's personal meeting room": { folderId: 49270496, courseId: 814611 },
 };
