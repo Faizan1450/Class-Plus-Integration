@@ -1,11 +1,3 @@
-/**
- * ClassPlus Batch Configuration
- * Maps Zoom meeting topics → ClassPlus course/folder IDs
- * 
- * URL pattern was: https://classplusapp.com/diy/courses/add/content/{folderId}?id={courseId}
- * Now we extract folderId and courseId directly for the API.
- */
-
 export const CLASSPLUS_URLS = {
     "java full stack with springboot": { folderId: 45873074, courseId: 775723 },
     "generative ai": { folderId: 45446445, courseId: 772963 },
@@ -18,5 +10,6 @@ export const CLASSPLUS_URLS = {
     "atlas 1.0": { folderId: 49395314, courseId: 777062 },
     "spring module 1": { folderId: 49529815, courseId: 775723 },
     "advance java (jfs online)": { folderId: 49685173, courseId: 775723 },
+    "DSA in Java": { folderId: 49636139, courseId: 818548 },
     "sharma computer academy's personal meeting room": { folderId: 49270496, courseId: 814611 },
 };

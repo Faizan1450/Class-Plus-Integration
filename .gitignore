@@ -50,6 +50,7 @@ temp/
 # Optional: uploads (if you store files locally)
 uploads/
 public/uploads/
+login.js
 
 # Optional: logs folder
 /logs
