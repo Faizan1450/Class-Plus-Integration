@@ -10,6 +10,7 @@ export const CLASSPLUS_URLS = {
     "atlas 1.0": { folderId: 49395314, courseId: 777062 },
     "spring module 1": { folderId: 49529815, courseId: 775723 },
     "advance java (jfs online)": { folderId: 49685173, courseId: 775723 },
-    "DSA in Java": { folderId: 49636139, courseId: 818548 },
+    "dsa in java": { folderId: 49636139, courseId: 818548 },
+    "front-end by paramjeet sir": { folderId: 51103236, courseId: 775723 },
     "sharma computer academy's personal meeting room": { folderId: 49270496, courseId: 814611 },
 };
